@@ -1,2 +1,2 @@
 # htmlwebpage
-This is a normal HTML webpage
+This is a normal HTML webpage just for practice.
