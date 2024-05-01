@@ -1,0 +1,18 @@
+.background{
+    background-color: lightskyblue;
+    border: 1cm;
+    border-width: 5cap;
+  }
+  
+  .welcome-message {
+      
+      font-size: 4em; 
+      color: lightcoral; 
+      animation: fadeInOut 10s infinite;
+      text-align: center;
+  }
+  
+  @keyframes fadeInOut {
+      0%, 100% { opacity: 0; }
+      50% { opacity: 1; }
+  }
